@@ -3,7 +3,7 @@ My DataBase: GuideCompanies
 
 ![PSQL_schemaOK](https://user-images.githubusercontent.com/102246411/216070420-1d413ec3-160b-4e2c-817d-37c1011e484a.png)
 
-App MainForm:
+App LoginForm:
 
 ![изображение](https://user-images.githubusercontent.com/102246411/216071145-53cdd467-4aea-48c8-bfcb-922d436d37a1.png)
 
